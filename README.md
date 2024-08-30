@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Velosaty](https://velosaty.com/)
 
-- 🌱 I’m currently learning **Java, GraphQL, NestJS, and developing AI webapps with Javascript and Langchain**
+- 🌱 I’m currently learning **Python, and the AWS suite of services through AWS Cloud Institute**
 
 - 👨‍💻 All of my projects are available at [ciscofrias.com](ciscofrias.com)
 
