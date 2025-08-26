@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Velosaty](https://velosaty.com/)
 
-- 🌱 I’m currently learning **Python, and the AWS suite of services through AWS Cloud Institute**
-
 - 👨‍💻 All of my projects are available at [ciscofrias.com](ciscofrias.com)
 
 - 📫 How to reach me: **Francisco.frias17@gmail.com**
